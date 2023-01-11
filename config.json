@@ -1,0 +1,6 @@
+{
+  "url-api-gateway": "127.0.0.1",
+  "puerto": 7777,
+  "url-microservicio-seguridad": "http://127.0.0.1:8080",
+  "url-microservicio-academico": "http://127.0.0.1:9999"
+}
